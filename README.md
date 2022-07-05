@@ -1,7 +1,9 @@
 # Spotify-track-predict
 Вступительая задача в мл секту итмо
 
-Classic ML В качестве тестового предлагается предсказать популярность песни на Spotify по её характеристикам c помощью этого датасета.
+Classic ML В качестве тестового предлагается предсказать популярность песни на Spotify по её характеристикам c помощью этого датасета
+https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
+
 
 Была выбрана модель - Decission Tree classifier
 
